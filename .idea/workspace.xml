@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c2cd55-c5f7-4db0-9684-e772f19bfce9" name="更改" comment="将6月5号以前的代码导入">
-      <change afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_不用CS_name特征.ipynb" afterDir="false" />
+    <list default="true" id="d2c2cd55-c5f7-4db0-9684-e772f19bfce9" name="更改" comment="添加了不用CS_name做特征方法和用ridge做基线的提交文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_不用CS_name特征.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_增加特征.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法二.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法二.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
       <updated>1717555204588</updated>
       <workItem from="1717555205654" duration="8334000" />
       <workItem from="1717593928199" duration="98000" />
+      <workItem from="1717594824817" duration="6151000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -116,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717556888105</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加了不用CS_name做特征方法和用ridge做基线的提交文件">
+      <option name="closed" value="true" />
+      <created>1717594996934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717594996934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +160,7 @@
     <MESSAGE value="删除测试文件" />
     <MESSAGE value="钟意的第一次提交" />
     <MESSAGE value="将6月5号以前的代码导入" />
-    <option name="LAST_COMMIT_MESSAGE" value="将6月5号以前的代码导入" />
+    <MESSAGE value="添加了不用CS_name做特征方法和用ridge做基线的提交文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了不用CS_name做特征方法和用ridge做基线的提交文件" />
   </component>
 </project>
