@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c2cd55-c5f7-4db0-9684-e772f19bfce9" name="更改" comment="添加了不用CS_name做特征方法和用ridge做基线的提交文件">
+    <list default="true" id="d2c2cd55-c5f7-4db0-9684-e772f19bfce9" name="更改" comment="方法四">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_不用CS_name特征.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_增加特征.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法二.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法二.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_增加特征.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/锂电池健康状态识别/notebooks/方法三_增加特征.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,10 @@
       <updated>1717555204588</updated>
       <workItem from="1717555205654" duration="8334000" />
       <workItem from="1717593928199" duration="98000" />
-      <workItem from="1717594824817" duration="6151000" />
+      <workItem from="1717594824817" duration="7077000" />
+      <workItem from="1717640680294" duration="4840000" />
+      <workItem from="1717728115076" duration="1831000" />
+      <workItem from="1717761123535" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -125,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717594996934</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="只用lgb、xgb、ridge、svr模型融合，没增加什么新特征">
+      <option name="closed" value="true" />
+      <created>1717601301392</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717601301392</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1717729020964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717729020964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +160,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="zy" />
+                        <option value="origin/zy" />
                       </list>
                     </value>
                   </entry>
@@ -161,6 +179,9 @@
     <MESSAGE value="钟意的第一次提交" />
     <MESSAGE value="将6月5号以前的代码导入" />
     <MESSAGE value="添加了不用CS_name做特征方法和用ridge做基线的提交文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了不用CS_name做特征方法和用ridge做基线的提交文件" />
+    <MESSAGE value="只用lgb、xgb、ridge、svr模型融合，没增加什么新特征" />
+    <MESSAGE value="test" />
+    <MESSAGE value="方法四" />
+    <option name="LAST_COMMIT_MESSAGE" value="方法四" />
   </component>
 </project>
