@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DataFountain_LDC.iml" filepath="$PROJECT_DIR$/.idea/DataFountain_LDC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataFountain_LDC/.idea/DataFountain_LDC.iml" filepath="$PROJECT_DIR$/../DataFountain_LDC/.idea/DataFountain_LDC.iml" />
     </modules>
   </component>
 </project>
